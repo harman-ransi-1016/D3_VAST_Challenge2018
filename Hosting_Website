@@ -1,0 +1,5 @@
+http://elvis.rowan.edu/~ditara24/InfoVisProject/
+
+DISCLAIMER: I worked on this with a friend at school. My edits can be seen in my GitHub history. However, because the project has a lot of dependencies, to show the work, it had to be hosted on a website. We used our school accounts to host the project.
+
+INFO: The project utilized D3 to help visualize the trail of chemical trails in a wildlife park. This was made to help draw a conclusion if there was a chemical dumping in the river or not. Specifically, Methylosmoline. For a good example, look @ Methylosmoline between January 1998 and November 2016. The bigger the circle, the more concentration was found. The darker the circle, the more recent it was found. Green lines represent an upstream while red lines represent a downstream. A combination of the circle size and lines can show a general flow of the chemical to determine its movement. 
